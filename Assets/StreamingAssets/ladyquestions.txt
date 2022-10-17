@@ -1,0 +1,72 @@
+null*	Hello~?*	Hey-- Mary?*	Hello, is Ms.Woznak speaking?*	Hi! Is this Mary?		
+Hi! Is this Mary?*	Yes-- who are you?*	This is the Alumni Relations department, we're just calling to update your contact information and talk about your time in and since college!*	This is your college's alumni department. We're calling to get updated contact info and talk about ways to stay connected with the university.*	It's the Alumni Call Center and this is the annual request for contact info and donations. 		
+Hello, is Ms.Woznak speaking?*	Yes-- who are you?*	This is the Alumni Relations department, we're just calling to update your contact information and talk about your time in and since college!*	This is your college's alumni department. We're calling to get updated contact info and talk about ways to stay connected with the university.*	It's the Alumni Call Center and this is the annual request for contact info and donations. 		
+Hey-- Mary?*	Uhm, yes. Who is this? I don't remember giving anyone my number recently.*	Oh, I've got a lot more than your number, Mary of 16 Park Avenue, Baltimore, Maryland. 	You gave it to me a few years ago! I mean us-- this is your college's alumni department. We're calling to get updated contact info and talk about ways to stay connected with the university.*	It's the Alumni Call Center and this is the annual request for contact info and donations.*	This is your college's alumni department. We're calling to get updated contact info and talk about ways to stay connected with the university.*	
+This is the Alumni Relations department, we're just calling to update your contact information and talk about your time in and since college!*	Oh, great!*	Perfect! Let's get into it. Do you have time for this call now?*	Yeah-- do you have time for this call right now?*	Can you talk now?		
+This is your college's alumni department. We're calling to get updated contact info and talk about ways to stay connected with the university.*	Sounds good!*	Perfect! Let's get into it. Do you have time for this call now?*	Yeah-- do you have time for this call right now?*	Can you talk now?		
+It's the Alumni Call Center and this is the annual request for contact info and donations.*	Um, okay. Would it be possible to do that online?*	We like to do it ourselves to provide a smoother and more personal experience, as well as extra assistance if required. The call won't take too long.*	Yes but the donation part seems to slip alumnis' minds unless we call them. It won't be a long call.*	No.*	You can, but it'd make my job obsolete. Let's do it quickly now.	
+You gave it to me a few years ago! I mean us-- this is your college's alumni department. We're calling to get updated contact info and talk about ways to stay connected with the university.*	Oh, I-- I think I remember putting my number down on some form. How long will this take?*	Not long at all!*	Well, I'm penalized if my calls to alumni don't last a certain length so....*	A while. 		
+Oh, I've got a lot more than your number, Mary of 16 Park Avenue, Baltimore, Maryland. *	I-- Who is this?*	Your college, silly!*	The shadow in the corner of your eye and the breath on the back of your neck. But mostly, the phantom living in your walls. Also Joey.*	Joey.		
+Not long at all!*	I suppose I can talk. What do we need to do?*	Contact information.*	Career.*	Time at school.*	The donation pitch	
+Well, I'm penalized if my calls to alumni don't last a certain length so....*	Um, okay. Would it be possible to do that online?*	We like to do it ourselves to provide a smoother and more personal experience, as well as extra assistance if required. The call won't take too long.*	Yes but the donation part seems to slip alumnis' minds unless we call them. It won't be a long call.*	No.*	You can, but it'd make my job obsolete. Let's do it quickly now.	
+A while. *	Um, okay. Would it be possible to do that online?*	We like to do it ourselves to provide a smoother and more personal experience, as well as extra assistance if required. The call won't take too long.*	Yes but the donation part seems to slip alumnis' minds unless we call them. It won't be a long call.*	No.*	You can, but it'd make my job obsolete. Let's do it quickly now.	
+We like to do it ourselves to provide a smoother and more personal experience, as well as extra assistance if required. The call won't take too long.*	I suppose I can talk. What do we need to do?*	Contact information.*	Career.*	Time at school.*	The donation pitch	
+Yes but the donation part seems to slip alumnis' minds unless we call them. It won't be a long call.*	I'll remember, I promise! Thanks for the call-- click*	...				
+No.*	I thought I remembered doing something like this online a couple years ago... I guess they changed the system. Alright, what are we doing?*	Contact information.*	Career.*	Time at school.*	The donation pitch	
+You can, but it'd make my job obsolete. Let's do it quickly now.*	Um, okay. What's first. *	Contact information.*	Career.*	Time at school.*	The donation pitch	
+Perfect! Let's get into it. Do you have time for this call now?*	Yes! What are we doing first?*	Contact information.*	Career.*	Time at school.*	The donation pitch	
+Yeah-- do you have time for this call right now?*	I think so! What was it you wanted to know again?*	Contact information.*	Career.*	Time at school.*	The donation pitch	
+Can you talk now?*	I suppose. What do we need to do?*	Contact information.*	Career.*	Time at school.*	The donation pitch	
+Your college, silly!*	What?*	This is the Alumni Relations department, we're just calling to update your contact information and talk about your time in and since college!*	This is your college's alumni department. We're calling to get updated contact info and talk about ways to stay connected with the university.*	It's the Alumni Call Center and this is the annual request for contact info and donations. 		
+The shadow in the corner of your eye and the breath on the back of your neck. But mostly, the phantom living in your walls. Also Joey.*	Why are you calling?*	It's time.*				
+Joey.*	Joey Ramirez? From 8th grade geometry?*	What?? No!*	Uh, yes.*	Why in the hell would Joey from 8th grade geometry be calling you? 		
+What?? No!*	I know your voice, Joey! You can't fool me!*	Look, I'm not that guy. This is your college's alumni department.*	I'M. NOT. JOEY. RAMIREZ!*	Listen, this isn't some kid from 8th grade geometry. This is serious.*	You got me, it's Joey from 8th grade.	
+Uh, yes.*	I knew it! What's up-- and how did you get this number? It's been ages.*	I'm in trouble, Mary. I need help.*	I couldn't stop thinking about you for the last 15 years.*	I actually work at your old college's Alumni center now!		
+Why in the hell would Joey from 8th grade geometry be calling you?*	I don't know, you were kind of always an odd kid. Why ARE you calling?*	I couldn't stop thinking about you for the last 15 years.*	I actually work at your old college's Alumni center now!*	It's time.*	You are exceptionally dumb.	
+It's time.*	F-for what?*	To do the annual call to all of our college's wonderful alumni!*	For you to pay the price.*			
+To do the annual call to all of our college's wonderful alumni!*	What?*	This is the Alumni Relations department, we're just calling to update your contact information and talk about your time in and since college!*	This is your college's alumni department. We're calling to get updated contact info and talk about ways to stay connected with the university.*	It's the Alumni Call Center and this is the annual request for contact info and donations. 		
+For you to explain yourself. You know what for.*	How did you-- look, I didn't do anything, I didn't know and--*	Calm down, Mary.				
+Calm down, Mary.*	Please, I just want to live my life! I didn't know that the tech was going to... to...*	Yes, you did. You're complicit. You need to pay for your crimes.*	It's okay, I understand. You weren't the one who did it.			
+Yes, you did. You're complicit. You need to pay for your crimes.*	--sob-- Why are you doing this?*	Like I said, you need to pay for your crimes.				
+Like I said, you need to pay for your crimes.*	Maybe you're right. I deserve justice. What do I do?*	You're going to give me your credit card information. The money will go to a good cause and you'll be absolved.				
+You're going to give me your credit card information. The money will go to a good cause and you'll be absolved.*	And I'll be free of this?? I'll pay anything, take it!*	...				
+Listen, this isn't some kid from 8th grade geometry. This is serious.*	Why are you calling?*	It's time.				
+It's okay, I understand. You weren't the one who did it.*	Right! I just work here.*	I understand, but others don't. They need some convincing.*	I know we both know what you did, but tell me what you did so I can make sure you know. I know though. Definitely.			
+I understand, but others don't. They've got questions.*	They? Who else knows?*	The press.*	Your family.*	Uh, Sam. You don't know him.*	The board.	
+I know we both know what you did, but tell me what you did so I can make sure you know. I know though. Definitely.*	Wait a minute... That project was sealed and all record are extremely confidential. There's no way you could've gotten it.*	But I did.*	It wasn't always sealed!			
+But I did.*	Liar!*	...				
+It wasn't always sealed!*	Yes, but it was highly confidential before that.*	Uh...*	My clearance is S++, code Delta-Sigma-Child-Hunting-Island-Omega			
+The board.*	They authorized and oversaw my project... you're lying!*	Uh...*	My clearance is S++, code Delta-Sigma-Child-Hunting-Island-Omega			
+Uh...*	Liar!*	...				
+My clearance is S++, code Delta-Sigma-Child-Hunting-Island-Omega*	You-- you're actually from the board. I'm so sorry I questioned you!*	You should be sorry.				
+You should be sorry.*	My project was called Uphold Rolling Silver Desest Force Strike Fury and we did... something unspeakable.*	...				
+Your family.*	Oh god-- I need to call my mom*	...				
+The press.*	That's illegal, all of this is information is protected-- you're going down! And any journalist you talked to!*	...				
+Uh, Sam. You don't know him.*	Huh? Why Sam?*	He's my buddy.*	He's an assasin.			
+He's my buddy.*	Ummm, ok?*	I tell him everything! And he doesn't understand why you did it.*				
+He's an assasin.*	Jesus-- I'm calling the police and company lawyers!*	...				
+I tell him everything! And he doesn't understand why you did it.*	I don't know, I just-- It was my job! I had to!*	You could've said no.				
+You could've said no.*	I couldn't! You don't know how hard I've had to work to get this far. This industry isn't kind to women. I've been through hell but I'm FINALLY here. I can't give it up.*	Your pain doesn't justify creating more.*	I can imagine-- isn't there a line though? Did you choose an engineering major to do things like this?*	That's incredibly selfish.		
+Your pain doesn't justify creating more.*	I'm not the one doing anything, I just make tools. It's not my fault.*	Tools of war. What did you think they'd be used for?				
+I can imagine-- isn't there a line though? Did you choose an engineering major to do things like this?*	... No. I only liked trains a lot when I was little. Department of Transportation doesn't pay well though.*	So you became a war criminal?*	How did you go from that to this?			
+That's incredibly selfish.*	It's not! I had to! And now... now I have to stop you too!*	...				
+Tools of war. What did you think they'd be used for?*	I tried not to dwell on it. But if I didn't do it, someone else would've.*	Just because someone else would've didn't mean you had to.*	That's... true.			
+So you became a war criminal?*	I didn't become anything! I told you, I didn't do anything. You know what, throw whatever you want at me. I know I'm innocent. I'm just an engineer and programmer. That's it. Goodbye.*	...				
+How did you go from that to this?*	Applied for a couple high paying engineering jobs, got some experience in the defense industry. Just kind of fell from one job to the next and kept climbing. Just like any other career.*	Was it worth it?*	You should switch careers.			
+Just because someone else would've didn't mean you had to.*	War and conflict are inevitable. I'm a gear in a machine, not a link in a chain. I am replacable. I am unrecognized. I am insignificant. If I complain or break down, I will be changed out for someone better.*	Wouldn't you rather be doing good?*	I guess you're right.			
+That's... true.*	Yes. I told you, I didn't do anything. Or, I guess, I didn't do anything that wouldn't have been done anyway. I've got some work to do now... Uh, goodbye. Nice to meet you.*	...				
+I guess you're right.*	Yes. I told you, I didn't do anything. Or, I guess, I didn't do anything that wouldn't have been done anyway. I've got some work to do now... Uh, goodbye. Nice to meet you.*	...				
+Wouldn't you rather be doing good?*	No. I'd rather pay off my mom's house and have good healthcare and a job that treats me well. Trains were the dream of a child. I'm an adult now. Goodbye.*	...				
+You should switch careers.*	To what?*	Amtrak has some openings for a senior mechanical engineer.				
+Amtrak has some openings for a senior mechanical engineer.*	Really?*	Yeah. Pays ok. You could be free of all this.*	No.			
+Yeah. Pays ok. You could be free of all this.*	I... That would be nice.*	I'll email you the link.				
+I'll email you the link.*	I have a lot to think about. Thank you, Joey.*	...				
+No.*	You know what? I'm done!*	...				
+Was it worth it?*	I... don't know.*	Huh.*	You're awful.			
+Huh.*	Maybe not.*	You have to live with that.*	You should switch careers.*			
+You're awful.*	I am, aren't I?*	You have to live with that.*	You deserve to die.			
+You have to live with that.*	I do. I get it now. I have a lot to think about... I'm going to hang up now. Come after me or don't. I don't care anymore. Goodbye.*	...				
+You deserve to die.*	... Maybe. Don't I deserve another chance though? A chance to be good?*	No, you don't.*	Yes, everyone does.			
+No, you don't.*	... Goodbye.*	...				
+Yes, everyone does.*	I'm going to quit my job first thing tomorrow. I'm going to donate to charity. I'm going to help people. I'm going to be better. Thank you, stranger.*	...				
+You are exceptionally dumb.*	You were a jerk in middleschool too. See you never!*	...				

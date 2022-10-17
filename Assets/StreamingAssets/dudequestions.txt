@@ -1,0 +1,5 @@
+a*	a response*	b*	d
+b*	b response*	c*	d
+c*	c response*	d*	e
+d*	d response*	e	
+e*	e reponse*	...	
